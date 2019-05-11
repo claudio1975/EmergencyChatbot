@@ -1,6 +1,6 @@
 # Chatbot
 
-This repository contains chatbot projects and for the beginning the code of Emergency Chatbot built with Rasa.
+This repository contains chatbot projects and for the beginning the code of Emergency Chatbot built with Rasa (read the explanation on: https://bit.ly/2HdJwA8).
 
 ## How to use this repository
 
