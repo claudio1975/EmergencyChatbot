@@ -1,10 +1,10 @@
 # Chatbot
 
-This repository contains chatbot projects and for the beginning the code of Emergency Chatbot built with Rasa (read the explanation on: https://bit.ly/2HdJwA8).
+This repository contains the code of Emergency Chatbot built with Rasa (read the explanation on: https://bit.ly/2HdJwA8).
 
 ## How to use this repository
 
-At the moment the repo contains two notebooks:
+The repo contains two notebooks:
 
 - `Rasa_Emergency_Chatbot_Colab` - a notebook made with Google Colaboratory 
 
