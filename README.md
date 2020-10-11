@@ -4,9 +4,11 @@ This repository contains the code of an Emergency Virtual Assistant built with R
 
 ## How to use this repository
 
-The repo contains two notebooks:
+The repo contains three notebooks:
 
-- `Rasa_Emergency_Chatbot_Colab` - a notebook made with Google Colaboratory 
+- `Rasa_Emergency_Chatbot_Colab` - a notebook updated made with Google Colaboratory -> rasa_core==0.11.12; rasa_nlu==0.13.6
 
-- `rasa_emergency_def` - a notebook made with Jupiter Notebook
+- `Rasa_Emergency_Chatbot_Colab_old` - a notebook old version made with Google Colaboratory -> rasa_core==0.9.6; rasa_nlu==0.12.3
+
+- `rasa_emergency_def_old` - a notebook old version made with Jupiter Notebook -> rasa_core==0.9.6; rasa_nlu==0.12.3
 
